@@ -1,5 +1,5 @@
 # Mathis KRIZMANIC
-<img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/images.jpg" alt="Texte alternatif" width="600"/>
+<img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/images.jpg" alt="Texte alternatif" width="200"/>
 
 ### Bonjour et bienvenue sur mon PortFolio !
 
