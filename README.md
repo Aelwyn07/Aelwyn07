@@ -11,7 +11,7 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/c++.png" alt="Texte alternatif" width="200"/>  
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/mysql.png" alt="Texte alternatif" width="200"/>  
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/web.jpg" alt="Texte alternatif" width="200"/>   
-  . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/javascript.png" alt="Texte alternatif" width="200"/>  
+  . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/javascript.png" alt="Texte alternatif" width="100"/>  
 
 Et bien sûr : 
 > Les prévisions météo c'est du random.randint()
