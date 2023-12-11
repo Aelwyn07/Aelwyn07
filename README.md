@@ -6,7 +6,8 @@
 Le développement est devenu une véritable vocation pour moi après avoir découvert la spécialité NSI au lycée. Mon parcours, jusqu'ici, m'a permis d'apprendre et d'approfondir les compétences nécessaires au développement d'applications, ainsi qu'au développement web. Enthousiaste à l'idée d'apprendre et engagé dans mes projets, je suis également passioné par le sport automobile et aime consacré du temps à la lecture de romans.
 
 ## Langages de programmation
-  . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/python.png" alt="Texte alternatif" width="200"/>  
+  . 
+<img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/python.png" alt="Texte alternatif" width="200"/>  
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/java.png" alt="Texte alternatif" width="200"/>  
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/c++.png" alt="Texte alternatif" width="200"/>  
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/mysql.png" alt="Texte alternatif" width="200"/>  
