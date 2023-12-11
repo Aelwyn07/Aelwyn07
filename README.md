@@ -1,6 +1,6 @@
 # Mathis KRIZMANIC
 
-![Texte alternatif](/Deskop/ig/image.jpg "Youhou").
+![Texte alternatif](/Desktop/ig/image.jpg "Youhou").
 
 ### Bonjour et bienvenue sur mon PortFolio !
 
