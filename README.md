@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Aelwyn07/Aelwyn07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Le développement est devenu une véritable vocation pour moi après avoir découvert la spécialité NSI au lycée. J'ai appris durant 
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
