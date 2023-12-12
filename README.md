@@ -1,5 +1,5 @@
 # Mathis KRIZMANIC
-<img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/images.jpg" alt="Texte alternatif" width="200"/>
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg" width="32">
 ### Bonjour et bienvenue !
 
