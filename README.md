@@ -7,13 +7,13 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
 
 ## Langages de programmation
 
-  . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32">
-  | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32">
-  | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32">
-  | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">
-  | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">
-  | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32">
-  | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">
+  .  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32"> 
+  .  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32"> 
+  .  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> 
+  .  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32"> 
+  .  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32"> 
+  .  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> 
+  .  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32"> 
 
 ## Mes réseaux
 
