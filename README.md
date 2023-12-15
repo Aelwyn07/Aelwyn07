@@ -13,13 +13,13 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/web.jpg" alt="Texte alternatif" width="200"/>   
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/javascript.png" alt="Texte alternatif" width="100"/>  
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">
+  . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32">
+  . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32">
+  . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32">
+  . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">
+  . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">
+  . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32">
+  . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">
 
 
 
