@@ -14,7 +14,7 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32">
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">
-  . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre.png" width="32">
+  . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre" width="32">
 
 
 
