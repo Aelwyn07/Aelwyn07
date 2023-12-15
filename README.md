@@ -13,11 +13,12 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32">
+  . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">
 
 ## Mes réseaux
 
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre" width="32"> mathis.krizmanic@gmail.com  |  mathis.krizmanic@etu.unilim.fr
-  . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32"> Mathis Krizmanic
+  . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32"> 
   
 
 
