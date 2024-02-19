@@ -41,8 +41,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
   mathis.krizmanic@gmail.com  |  mathis.krizmanic@etu.unilim.fr
   <br>
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32"> 
-  Mathis Krizmanic
-[Mathis Krizmanic](https://www.linkedin.com/in/mathis-krizmanic-188797256)
+  [Mathis Krizmanic](https://www.linkedin.com/in/mathis-krizmanic-188797256)
 
 
 
