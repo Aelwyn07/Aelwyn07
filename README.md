@@ -8,7 +8,7 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
 
 J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de divers projets, détaillés ci-dessous.
 
-## Compétences
+## Compétences 💪
 
 ### Langages
 
@@ -22,11 +22,11 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32"> <br>
   
 
-### Soft Skills 👍 :victory:
+### Soft Skills ✌️
 
   **Engagé**  |  Sérieux  |  **Patient**  |  Coopération  |  **Esprit critique** 
 
-### Projets
+### Projets 🚀
 
 * Lycée
    * Jeu PacMan en Python  | PyGame |
@@ -36,7 +36,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    * Escape Game sur le thème de l'informatique - En cours -  | Unity, C# | 
    * Site web perso [A venir]
 
-## Mes réseaux
+## Mes réseaux 👍
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre.png" width="32"> 
   mathis.krizmanic@gmail.com  |  mathis.krizmanic@etu.unilim.fr
   <br>
