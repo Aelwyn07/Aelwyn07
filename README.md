@@ -9,14 +9,11 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
 
 ###Langages
 
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32"> Python  |  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32"> Java  |  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> C++ <br>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32">  |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32">  |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> <br><br>
   *Web*<br>
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32"> HTML  |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32"> CSS  |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> JS <br>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">  |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">  |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> <br><br>
   *Bases de données*<br>
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32"> MySQL  |
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="32"> SQLite
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">  |  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="32">
 
 ###Outils
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="32"> HTML <br>
