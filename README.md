@@ -23,17 +23,28 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
 ### Soft Skills
 
-  Engagé  |  Sérieux  | Patient 
+  Engagé  |  Sérieux  | Patient <br>
   Coopération  |  Esprit critique
 
+### Projets
+
 ## Mes réseaux
-=surligne=
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre.png" width="32"> 
   mathis.krizmanic@gmail.com  |  mathis.krizmanic@etu.unilim.fr
   <br>
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32"> 
   Mathis Krizmanic
   
+=surligne=
++surligne+
+*surligne*
+/surligne/
+!surligne!
+?surligne?
+-surligne-
+_surligne_
+[surligne]
+#surligne#
 
 
 
