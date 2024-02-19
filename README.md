@@ -10,7 +10,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
 ## Compétences
 
-### Langages - Frameworks
+### Langages
 
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> <br><br>
   **Web**<br>
@@ -22,16 +22,15 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32"> <br>
   
 
-### Soft Skills
+### Soft Skills 👍 :victory:
 
-  **Engagé**  |  Sérieux  | **Patient** <br>
-  Coopération  |  **Esprit critique**
+  **Engagé**  |  Sérieux  |  **Patient**  |  Coopération  |  **Esprit critique** 
 
 ### Projets
 
 * Lycée
    * Jeu PacMan en Python  | PyGame |
-   * Création d'une page web pour un site
+   * Création d'une page web pour un site commun entre élèves
 * BUT Informatique
    * Jeu Le Verger en Java  | JavaFX |
    * Escape Game sur le thème de l'informatique - En cours -  | Unity, C# | 
