@@ -1,7 +1,4 @@
-# Mathis KRIZMANIC
-
-
-### Whoami
+# Whoami
 
 Actuellement étudiant en seconde année de BUT Informatique, sur Limoges. Je suis le parcours "réalisation d'applications : conception, développement, validation".
 
