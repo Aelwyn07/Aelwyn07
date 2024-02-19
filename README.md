@@ -16,7 +16,7 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
   .  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32"> MySQL
 
 ## Mes réseaux
-==surligne==
+=surligne=
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre.png" width="32"> 
   mathis.krizmanic@gmail.com  |  mathis.krizmanic@etu.unilim.fr
   <br>
