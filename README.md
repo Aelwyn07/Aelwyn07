@@ -15,13 +15,13 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
   *Bases de données*<br>
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="32">
 
-###Outils
+### Outils
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="32"> HTML <br>
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Ligth.svg" width="32"> HTML <br>
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32"> HTML <br>
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="32"> HTML <br>
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32"> HTML <br>
-###Soft Skills
+### Soft Skills
 
 ## Mes réseaux
 =surligne=
