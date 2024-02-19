@@ -44,8 +44,8 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
   [Mathis Krizmanic](https://www.linkedin.com/in/mathis-krizmanic-188797256)
 
 
-![image](https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d)
 
+<img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d" alt="Image Description" width="50%" height="50%">
 
 Et bien sûr : 
 > Les prévisions météo c'est du random.randint()
