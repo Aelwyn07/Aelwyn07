@@ -42,10 +42,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
   <br>
   . <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32"> 
   Mathis Krizmanic
-
-_Ce texte est souligné_
-
-_Ce texte est également souligné_
+[Mathis Krizmanic](https://www.linkedin.com/in/mathis-krizmanic-188797256)
 
 
 
