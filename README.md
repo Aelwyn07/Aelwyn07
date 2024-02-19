@@ -7,7 +7,7 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
 
 ## Compétence
 
-###Langages
+### Langages
 
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> <br><br>
   *Web*<br>
