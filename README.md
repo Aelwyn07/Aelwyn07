@@ -36,7 +36,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    * Escape Game sur le thème de l'informatique - En cours -  | Unity, C# | 
    * Site web perso [A venir] <br>
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/8f8e903e-cf44-4713-b026-f8b32bc84196" alt="Image Description" width="25%" height="25%">      
-<img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d" alt="Image Description" width="25%" height="25%">
+<img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d" alt="Image Description" width="30%" height="30%">
   <br> Jeu PacMan                           |                    Jeu Le Verger <br>
 
   
