@@ -16,7 +16,7 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32"> HTML  |  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32"> CSS  |  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> JS <br>
-  *Bases de données*
+  *Bases de données*<br>
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32"> MySQL  |
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="32"> SQLite
 
