@@ -35,7 +35,8 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    * Jeu Le Verger en Java  | JavaFX |
    * Escape Game sur le thème de l'informatique - En cours -  | Unity, C# | 
    * Site web perso [A venir]
-
+<img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d" alt="Image Description" width="25%" height="25%">
+   Jeu du verger
 ## Mes réseaux 👍
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre.png" width="32"> 
   mathis.krizmanic@gmail.com  |  mathis.krizmanic@etu.unilim.fr
@@ -45,7 +46,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
 
 
-<img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d" alt="Image Description" width="50%" height="50%">
+
 
 Et bien sûr : 
 > Les prévisions météo c'est du random.randint()
