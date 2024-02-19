@@ -37,7 +37,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    * Site web perso [A venir] <br>
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/8f8e903e-cf44-4713-b026-f8b32bc84196" alt="Image Description" width="25%" height="25%">      
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d" alt="Image Description" width="28%" height="28%">
-        <br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&p&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJeu PacMan&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&&nbsp&nbsp&nbsp&nbspnbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&&nbsp&nbsp&nbsp&nbspnbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJeu Le Verger&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nb&nbsp&nbsp&nbsp&nbspsp&nbsp&nbsp&nbsp&nbsp <br>
+        <br>&nbsp&nbspJeu PacMan|Jeu Le Verger <br>
 
   
 ## Mes réseaux 👍
