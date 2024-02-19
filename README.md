@@ -8,7 +8,7 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
 
 J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de divers projets, détaillés ci-dessous.
 
-## Compétence
+## Compétences
 
 ### Langages
 
@@ -22,6 +22,9 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32">
 
 ### Soft Skills
+
+  Engagé  |  Sérieux  | Patient 
+  Coopération  |  Esprit critique
 
 ## Mes réseaux
 =surligne=
