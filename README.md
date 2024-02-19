@@ -10,16 +10,18 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
 ## Compétences
 
-### Langages
+### Langages - Frameworks
 
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> <br><br>
-  **Web* *<br>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32"> | Bottle | <br>    
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32"> | JavaFX | JUnit |
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> <br><br>
+  **Web**<br>
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> <br><br>
   **Bases de données**<br>
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="32">
 
 ### Outils
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32"> <br>
 
 ### Soft Skills
 
@@ -27,6 +29,14 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
   Coopération  |  Esprit critique
 
 ### Projets
+
+* Lycée
+   * Jeu PacMan en Python ( PyGame )
+   * Création d'une page web pour un site
+* BUT Informatique
+   * 
+   * Jeu Le Verger en Java ( JavaFX )
+   * Site web perso [A venir]
 
 ## Mes réseaux
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre.png" width="32"> 
