@@ -32,9 +32,10 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    * Jeu PacMan en Python  | PyGame |
    * Création d'une page web pour un site commun entre élèves
 * BUT Informatique
-   * Jeu Le Verger en Java  | JavaFX |
+   * Jeu Le Verger en Java  | JavaFX, JUnit |
    * Escape Game sur le thème de l'informatique - En cours -  | Unity, C# | 
-   * Site web perso [A venir] <br>
+* Personnel
+   $ Site web perso [en cours] <br>
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/8f8e903e-cf44-4713-b026-f8b32bc84196" alt="Image Description" width="25%" height="25%">      
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d" alt="Image Description" width="28%" height="28%">
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeu PacMan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeu Le Verger&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
