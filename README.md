@@ -40,7 +40,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    * Jeu de société Le Verger en Java  | JavaFX, JUnit |
    * Escape Game sur le thème de l'informatique - En cours de réalisation -  | Unity, C# | 
 * Personnel
-   * Site web personnel [en cours] <br>
+   * Site web personnel [en cours] <br><br>
 * Lien vers mes différents projets : https://github.com/Aelwyn07/Projets
 <br>
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/8f8e903e-cf44-4713-b026-f8b32bc84196" alt="Image Description" width="25%" height="25%">      
