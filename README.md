@@ -16,7 +16,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
   **Web**<br>
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> <br><br>
   **Bases de données**<br>
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="32">
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="32">
 
 ### Outils
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32"> <br>
