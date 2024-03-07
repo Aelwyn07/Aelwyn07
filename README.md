@@ -32,7 +32,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 ## Projets 🚀
 
 * Lycée
-   * Jeu PacMan en Python  | PyGame |
+   * Jeu PacMan en Python  | PyGame sous EduPython |
    * Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève
 * BUT Informatique
    * Ensemble de mini-jeux en Python : allumettes, devinettes, morpion
@@ -40,9 +40,12 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    * Escape Game sur le thème de l'informatique - En cours de réalisation -  | Unity, C# | 
 * Personnel
    * Site web personnel [en cours] <br>
+   
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/8f8e903e-cf44-4713-b026-f8b32bc84196" alt="Image Description" width="25%" height="25%">      
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d" alt="Image Description" width="28%" height="28%">
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeu PacMan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Verger <br>
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Jeu PacMan
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Verger <br>
 
 <br>
 
