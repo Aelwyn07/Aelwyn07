@@ -8,7 +8,7 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
 
 J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de divers projets, détaillés ci-dessous.
 
-## Compétences 💪
+## Compétences - Hard Skills 💪
 
 ### &nbsp;Langages  &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Web
 
@@ -25,18 +25,20 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
 ### Soft Skills ✌️
 
-  **Engagé**  |  Sérieux  |  **Patient**  |  Coopération  |  **Esprit critique** 
+  **Engagé** &nbsp; | &nbsp; Sérieux &nbsp; | &nbsp; **Patient** &nbsp; | &nbsp; Coopératif &nbsp; | &nbsp; **Esprit critique** 
+
 
 ### Projets 🚀
 
 * Lycée
    * Jeu PacMan en Python  | PyGame |
-   * Création d'une page web pour un site commun entre élèves
+   * Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève
 * BUT Informatique
-   * Jeu Le Verger en Java  | JavaFX, JUnit |
-   * Escape Game sur le thème de l'informatique - En cours -  | Unity, C# | 
+   * Ensemble de mini-jeux en Python : allumettes, devinettes, morpion
+   * Jeu de société Le Verger en Java  | JavaFX, JUnit |
+   * Escape Game sur le thème de l'informatique - En cours de réalisation -  | Unity, C# | 
 * Personnel
-   * Site web perso [en cours] <br>
+   * Site web personnel [en cours] <br>
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/8f8e903e-cf44-4713-b026-f8b32bc84196" alt="Image Description" width="25%" height="25%">      
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d" alt="Image Description" width="28%" height="28%">
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeu PacMan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeu Le Verger&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
