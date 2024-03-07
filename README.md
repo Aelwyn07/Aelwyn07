@@ -13,7 +13,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 ### Langages  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Web
 
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32">    &nbsp;&nbsp;             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> <br><br>
-  **Bases de données**<br>
+### Bases de données <br>
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="32">     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="32">
 
 ### Outils
