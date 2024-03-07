@@ -28,6 +28,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
   **Engagé** &nbsp; | &nbsp; Sérieux &nbsp; | &nbsp; **Patient** &nbsp; | &nbsp; Coopératif &nbsp; | &nbsp; **Esprit critique** 
 
 <br>
+
 ## Projets 🚀
 
 * Lycée
