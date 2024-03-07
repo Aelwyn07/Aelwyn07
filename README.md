@@ -1,6 +1,6 @@
 # Mathis KRIZMANIC
 
-### **Whoami** 
+## **Whoami** 
 
 Actuellement étudiant en seconde année de BUT Informatique, sur Limoges. Je suis le parcours "réalisation d'applications : conception, développement, validation".
 
@@ -23,12 +23,12 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 ### En cours d'apprentissage - Notions
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="32">
 
-### Soft Skills ✌️
+## Soft Skills ✌️
 
   **Engagé** &nbsp; | &nbsp; Sérieux &nbsp; | &nbsp; **Patient** &nbsp; | &nbsp; Coopératif &nbsp; | &nbsp; **Esprit critique** 
 
 
-### Projets 🚀
+## Projets 🚀
 
 * Lycée
    * Jeu PacMan en Python  | PyGame |
