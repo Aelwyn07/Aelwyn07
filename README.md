@@ -1,5 +1,5 @@
 # Mathis KRIZMANIC
-<br><br>
+
 ## **Whoami** 
 
 Actuellement étudiant en seconde année de BUT Informatique, sur Limoges. Je suis le parcours "réalisation d'applications : conception, développement, validation".
@@ -27,7 +27,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
   **Engagé** &nbsp; | &nbsp; Sérieux &nbsp; | &nbsp; **Patient** &nbsp; | &nbsp; Coopératif &nbsp; | &nbsp; **Esprit critique** 
 
-<br><br><br>
+<br><br>
 ## Projets 🚀
 
 * Lycée
@@ -43,7 +43,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d" alt="Image Description" width="28%" height="28%">
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeu PacMan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeu Le Verger&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 
-<br><br><br>
+<br><br>
 ## Mes réseaux 👍
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre.png" width="32"> 
   mathis.krizmanic@gmail.com  |  mathis.krizmanic@etu.unilim.fr
