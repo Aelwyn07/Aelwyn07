@@ -7,6 +7,9 @@ Actuellement étudiant en seconde année de BUT Informatique, sur Limoges. Je su
 Le développement est devenu une véritable vocation pour moi après avoir découvert la spécialité NSI au lycée. Mon parcours, jusqu'ici, m'a permis d'apprendre et d'approfondir les compétences nécessaires au développement d'applications, ainsi qu'au développement web. Enthousiaste à l'idée d'apprendre et engagé dans mes projets, je suis également passionné par le sport automobile, et aime consacrer du temps à la lecture de romans.
 
 J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de divers projets, détaillés ci-dessous.
+
+(Cette page est en cours de réalisation)
+
 <br><br>
 ## Compétences - Hard Skills 💪
 
