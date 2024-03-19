@@ -38,11 +38,13 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
 * Lycée
    * Jeu PacMan en Python  | PyGame sous EduPython |
-   * Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève<br>
+   * Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève
+  <br>
 * BUT Informatique
    * Ensemble de mini-jeux en Python : allumettes, devinettes, morpion
    * Jeu de société Le Verger en Java  | JavaFX, JUnit |
-   * Escape Game sur le thème de l'informatique - En cours de réalisation -  | Unity, C# | <br>
+   * Escape Game sur le thème de l'informatique - En cours de réalisation -  | Unity, C# |
+  <br>
 * Personnel
    * Site web personnel [en cours] <br><br>
 * Lien vers mes différents projets : https://github.com/Aelwyn07/Projets
