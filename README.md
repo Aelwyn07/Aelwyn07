@@ -13,14 +13,15 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 <br><br>
 ## Compétences - Hard Skills 💪
 
-### &nbsp;&nbsp;&nbsp;Langages  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ( bonnes notions )
+### &nbsp;&nbsp;&nbsp;Langages  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Web &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ( bonnes notions | bases solides )
 
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32">   &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32">    &nbsp;&nbsp;&nbsp;             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32">  &nbsp;   
-### Bases de données
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">  &nbsp;&nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="32">  &nbsp;&nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="32">  &nbsp;&nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="32">
 ### En cours d'apprentissage - Notions
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="32">  &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="32">  &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32"> &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="32">
 <br>
+
+### Bases de données
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">  &nbsp;&nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="32">  &nbsp;&nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="32">  &nbsp;&nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="32">
 
 
 ### Outils
