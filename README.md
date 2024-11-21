@@ -17,7 +17,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
 ### IHM
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="32">    
-<br>
+
 
      
    
