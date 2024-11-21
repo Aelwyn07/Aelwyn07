@@ -46,7 +46,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
 * Lycée
    * Jeu PacMan en Python  | PyGame sous EduPython |
-     (lien à venir)
+     - > https://github.com/Aelwyn07/PacMan-Python
    * Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève
      (lien à venir)
   <br>
@@ -56,7 +56,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    * Jeu de société Le Verger en Java  | JavaFX, JUnit |
      (lien à venir)
    * Escape Game sur le thème de l'informatique  | Unity, C# |
-     (lien à venir)
+     - > https://github.com/ArkAow/SAE-EscapeGame
    * Création d'un nouveau prévisionnel pour le personnel de l'IUT | Php, Symphony
   <br>
 * Personnel
