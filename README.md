@@ -11,7 +11,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 <br><br>
 ## Compétences - Hard Skills 💪
 
-### Langages
+### Langages - bonnes connaissances et expériences
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> &nbsp;
 
 
@@ -32,7 +32,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
 
 ### Outils
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="32">  &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Light.svg" width="32">  &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="32"> &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32"> &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="32"> &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="32"> &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg" width="32">  &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32"> &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="32"> &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32"> <br><br>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="32"> &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg" width="32">  &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32"> &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Light.svg" width="32">  &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="32"> &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32"> &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="32">  &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32"> &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="32"> &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="32"> &nbsp;&nbsp;  <br><br>
 
 
 
