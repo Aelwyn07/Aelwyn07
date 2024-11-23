@@ -52,7 +52,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
   <br>
 * BUT Informatique
    * Ensemble de mini-jeux en Python : allumettes, devinettes, morpion
-     (lien à venir)
+     - > https://github.com/Aelwyn07/Mini-Jeux-Python
    * Jeu de société Le Verger en Java  | JavaFX, JUnit |
      (lien à venir)
    * Escape Game sur le thème de l'informatique  | Unity, C# |
