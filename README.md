@@ -1,6 +1,5 @@
 # Mathis KRIZMANIC
 
-## **Whoami** 
 
 Aujourd'hui étudiant en troisième année de BUT Informatique, sur Limoges, je suis le parcours "réalisation d'applications : conception, développement, validation".
 
