@@ -4,7 +4,7 @@
 
 Aujourd'hui étudiant en troisième année de BUT Informatique, sur Limoges, je suis le parcours "réalisation d'applications : conception, développement, validation".
 
-Le développement est devenu une véritable vocation pour moi après avoir découvert la spécialité NSI au lycée. Mon parcours, jusqu'ici, m'a permis d'apprendre et d'approfondir les compétences nécessaires au développement d'applications, ainsi qu'au développement web. Enthousiaste à l'idée d'apprendre et engagé dans mes projets, je suis également passionné par le sport automobile, et aime consacrer du temps à la lecture de romans !
+Le développement est devenu une véritable vocation pour moi après avoir découvert la spécialité NSI au lycée. Mon parcours, jusqu'ici, m'a permis d'apprendre et d'approfondir les compétences nécessaires au développement d'applications, web et mobile. Enthousiaste à l'idée d'apprendre et engagé dans mes projets, je suis également passionné par le sport automobile, et aime consacrer du temps à la lecture de romans !
 
 J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de divers projets et de développer un grand nombre de compétences, détaillées ci-dessous.
 
@@ -45,23 +45,25 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 ## Projets 🚀
 
 * Lycée
-   * Jeu PacMan en Python  | PyGame sous EduPython |
+   * Jeu PacMan en Python  | PyGame sous EduPython | 04/11/21 - 10/11/21
      - > https://github.com/Aelwyn07/PacMan-Python
-   * Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève
+   * Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | 
      (lien à venir)
   <br>
 * BUT Informatique
-   * Ensemble de mini-jeux en Python : allumettes, devinettes, morpion
+   * Ensemble de mini-jeux en Python : allumettes, devinettes, morpion | 09/22 - 01/23
      - > https://github.com/Aelwyn07/Mini-Jeux-Python
-   * Jeu de société Le Verger en Java  | JavaFX, JUnit |
+   * Jeu de société Le Verger en Java  | JavaFX, JUnit | 03/23 - 06/23
      - > https://github.com/Aelwyn07/Le_Verger
-   * Escape Game sur le thème de l'informatique  | Unity, C# |
+   * Escape Game sur le thème de l'informatique  | Unity, C# | 09/23 - 04/24
      - > https://github.com/ArkAow/SAE-EscapeGame
-   * Création d'un nouveau prévisionnel pour le personnel de l'IUT | Php, Symphony
+   * Création d'un nouveau prévisionnel pour le personnel de l'IUT | Php, Symphony | 09/24 - 02/25
   <br>
 * Personnel
-   * Site web personnel - Portfolio [en cours] <br><br>
+   * Site web personnel - Portfolio [en cours] | IMH, React | 11/24 - 
+   * Jeu Zaundle [en cours] | IHM, JS, React | 11/24 - <br><br>
 <br>
+
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/8f8e903e-cf44-4713-b026-f8b32bc84196" alt="Image Description" width="25%" height="25%">      
 <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/001e9242-ed4f-4739-94c8-61612c99c62d" alt="Image Description" width="28%" height="28%">
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeu PacMan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le Verger <br>
