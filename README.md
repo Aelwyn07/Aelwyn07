@@ -30,7 +30,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="32">  &nbsp;&nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="32">  &nbsp;&nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="32">  &nbsp;&nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="32">
 
 
-### Outils
+### Outils divers
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="32"> &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg" width="32">  &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32"> &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Light.svg" width="32">  &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="32"> &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32"> &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="32">  &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32"> &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="32"> &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="32"> &nbsp;&nbsp;  <br><br>
 
 
