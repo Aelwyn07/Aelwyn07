@@ -10,13 +10,13 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 <br><br>
 ## Compétences - Hard Skills 💪
 
-### Langages - bonnes connaissances et expériences
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> &nbsp;
-
-
 ### IHM
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="32">    
 
+
+
+### Langages - bonnes connaissances et expériences
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> &nbsp;
 
      
    
