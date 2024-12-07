@@ -64,6 +64,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    * Escape Game sur le thème de l'informatique  | Unity, C# | 09/23 - 04/24
      - > https://github.com/ArkAow/SAE-EscapeGame
    * Création d'un nouveau prévisionnel pour le personnel de l'IUT | Php, Symphony | 09/24 - 02/25
+   * Mise en place d'un site web filmothèque | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24
   <br>
 * Personnel
    * Site web personnel - Portfolio [en cours] | IMH, React | 11/24 - 
