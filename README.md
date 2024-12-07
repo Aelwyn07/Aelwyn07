@@ -76,8 +76,8 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
 
 <table border="O" width="100%">
-  <tr>
-    <td align="center">
+  <tr border="O">
+    <td border="O" align="center">
       <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/8f8e903e-cf44-4713-b026-f8b32bc84196" alt="Image Description" alt="Jeu Pacman en Python" width="150">
       <br>
       <p>Jeu Pacman en Python</p>
