@@ -88,7 +88,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
  
 <br> 
-## Mes réseaux 👍
+<h2> Mes réseaux 👍</h2>
   . <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre.png" width="32"> 
   mathis.krizmanic@gmail.com  |  mathis.krizmanic@etu.unilim.fr
   <br>
