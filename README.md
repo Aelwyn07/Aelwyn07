@@ -70,7 +70,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    * Jeu Zaundle [en cours] | IHM, JS, React | 11/24 - <br><br>
 <br>
 
-<table>
+<table display="contain">
   <tr>
     <td align="center">
       <img src="https://github.com/Aelwyn07/Aelwyn07/assets/108084287/8f8e903e-cf44-4713-b026-f8b32bc84196" alt="Image Description" alt="Jeu Pacman en Python" width="350">
