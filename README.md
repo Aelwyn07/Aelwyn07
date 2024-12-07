@@ -1,6 +1,6 @@
 # Mathis KRIZMANIC
 
-<picture><img align="right" src="https://github.com/Aelwyn07/Aelwyn07/blob/main/background.png" width = 250px></picture>
+<picture><img align="right" src="https://github.com/Aelwyn07/Aelwyn07/blob/main/newback.png" width = 250px></picture>
 
 Aujourd'hui étudiant en troisième année de BUT Informatique, sur Limoges, je suis le parcours "réalisation d'applications : conception, développement, validation".
 
