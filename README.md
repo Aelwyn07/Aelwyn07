@@ -2,7 +2,7 @@
 
 <picture><img align="right" src="https://github.com/Aelwyn07/Aelwyn07/blob/main/newback.png" width = 200px></picture>
 
-<h4 align="center">"<em>Les prévisions météo, c'est du random.randint()</em>"<br><br>
+<h4 >"<em>Les prévisions météo, c'est du random.randint()</em>"<br><br>
 
 <p align="justify">
 Aujourd'hui étudiant en troisième année de BUT Informatique, sur Limoges, je suis le parcours "réalisation d'applications : conception, développement, validation".
