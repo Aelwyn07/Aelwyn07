@@ -1,18 +1,19 @@
 # Mathis KRIZMANIC
 
-<picture><img align="right" src="https://github.com/Aelwyn07/Aelwyn07/blob/main/back2.png" width = 200px></picture>
+
 <br>
 <div align="center">
    <h4 >"<em>Les prévisions météo, c'est du random.randint()</em>"</h4>
 </div>
+
 <br><br>
-<p align="justify">
+<picture><img align="right" src="https://github.com/Aelwyn07/Aelwyn07/blob/main/back2.png" width = 200px></picture>
 Aujourd'hui étudiant en troisième année de BUT Informatique, sur Limoges, je suis le parcours "réalisation d'applications : conception, développement, validation".
 
 Le développement est devenu une véritable vocation pour moi après avoir découvert la spécialité NSI au lycée. Mon parcours, jusqu'ici, m'a permis d'apprendre et d'approfondir les compétences nécessaires au développement d'applications, web et mobile. Enthousiaste à l'idée d'apprendre et engagé dans mes projets, je suis également passionné par le sport automobile, et aime consacrer du temps à la lecture de romans !
 
 J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de divers projets et de développer un grand nombre de compétences, détaillées ci-dessous.
-</p>
+
 <br><br>
 ## Compétences - Hard Skills 💪
 
