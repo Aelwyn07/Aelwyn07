@@ -1,18 +1,5 @@
 # Mathis KRIZMANIC
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    Aujourd'hui étudiant en troisième année de BUT Informatique, sur Limoges, je suis le parcours "réalisation d'applications : conception, développement, validation".
-
-Le développement est devenu une véritable vocation pour moi après avoir découvert la spécialité NSI au lycée. Mon parcours, jusqu'ici, m'a permis d'apprendre et d'approfondir les compétences nécessaires au développement d'applications, web et mobile. Enthousiaste à l'idée d'apprendre et engagé dans mes projets, je suis également passionné par le sport automobile, et aime consacrer du temps à la lecture de romans !
-
-J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de divers projets et de développer un grand nombre de compétences, détaillées ci-dessous.
-
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="URL_DE_L_IMAGE" alt="Description de l'image" width="200" />
-  </div>
-</div>
 
 Aujourd'hui étudiant en troisième année de BUT Informatique, sur Limoges, je suis le parcours "réalisation d'applications : conception, développement, validation".
 
