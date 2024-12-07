@@ -47,7 +47,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 </div>
 <br>
 
-<h2 align="center> Projets 🚀 </h2>
+<h2 align="center"> Projets 🚀 </h2>
 
 * Lycée
    * Jeu PacMan en Python  | PyGame sous EduPython | 04/11/21 - 10/11/21
