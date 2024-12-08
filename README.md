@@ -71,16 +71,19 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
                - > https://github.com/ArkAow/SAE-EscapeGame
             <br><br>
             - Création d'un nouveau prévisionnel pour le personnel de l'IUT <b>[en cours]</b> | Php, Symphony | 09/24 - 02/25<br>
+            <b>[en cours]</b>
             <br><br>
-            - Mise en place d'un site web filmothèque <b>[en cours]</b>  | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24
-               
+            - Mise en place d'un site web filmothèque  | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24<br>
+            <b>[en cours]</b>
    </li>
    <br>
    <li>
       <h3>Personnels</h3>
-         - Site web personnel - Portfolio [en cours] | IMH, React | 11/24 -
+         - Site web personnel - Portfolio | IMH, React | 11/24 -
+         <b>[en cours]</b>
       <br><br>
-         - Jeu Zaundle [en cours] | IHM, JS, React | 11/24 - 
+         - Jeu Zaundle | IHM, JS, React | 11/24 - 
+         <b>[en cours]</b>
    </li>
 </ul>
 <br>
