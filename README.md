@@ -56,7 +56,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
                   &nbsp;&nbsp;- > https://github.com/Aelwyn07/PacMan-Python
             <br><br>
             - Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | <br>
-                  <div margin-left="10px"> - > (lien à venir) </div>
+                  <div margin-left="40%px"> - > (lien à venir) </div>
    </li>
    <br>
    <li>
