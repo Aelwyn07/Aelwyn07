@@ -53,7 +53,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    <li>
       <h3>Lycée</h3>
             - Jeu PacMan en Python  | PyGame sous EduPython | 04/11/21 - 10/11/21<br>
-               - > https://github.com/Aelwyn07/PacMan-Python
+                        - > https://github.com/Aelwyn07/PacMan-Python
             <br>
             - Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | <br>
                   - > (lien à venir)
