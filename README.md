@@ -2,11 +2,7 @@
 
 <br>
 <div align="center">
-   ##***Les prévisions météo, c'est du random.randint()***
-</div>
-<br>
-<div align="center">
-   <p style="font-size: 350px;"><b>"<em>Les prévisions météo, c'est du random.randint()</em>"</b></p>
+   <b>"<em>Les prévisions météo, c'est du random.randint()</em>"</b>
 </div>
 
 <br><br>
