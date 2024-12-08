@@ -60,10 +60,10 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    <li>
       <h3>BUT Informatique</h3>
          - Ensemble de mini-jeux en Python : allumettes, devinettes, morpion | 09/22 - 01/23
-           - > https://github.com/Aelwyn07/Mini-Jeux-Python
+            https://github.com/Aelwyn07/Mini-Jeux-Python
 
          - Jeu de société Le Verger en Java  | JavaFX, JUnit | 03/23 - 06/23
-           - > https://github.com/Aelwyn07/Le_Verger
+            https://github.com/Aelwyn07/Le_Verger
 
          - Escape Game sur le thème de l'informatique  | Unity, C# | 09/23 - 04/24
            - > https://github.com/ArkAow/SAE-EscapeGame
