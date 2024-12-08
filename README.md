@@ -53,10 +53,10 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    <li>
       <h3>Lycée</h3>
             - Jeu PacMan en Python  | PyGame sous EduPython | 04/11/21 - 10/11/21<br>
-                  - > https://github.com/Aelwyn07/PacMan-Python
+                  &nbsp;&nbsp;- > https://github.com/Aelwyn07/PacMan-Python
             <br><br>
             - Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | <br>
-                  - > (lien à venir)
+                  &nbsp;&nbsp;- > (lien à venir)
    </li>
    <br>
    <li>
@@ -71,19 +71,19 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
                - > https://github.com/ArkAow/SAE-EscapeGame
             <br><br>
             - Création d'un nouveau prévisionnel pour le personnel de l'IUT <b>[en cours]</b> | Php, Symphony | 09/24 - 02/25<br>
-            <b>[en cours]</b>
+            <b>[EN COURS]</b>
             <br><br>
             - Mise en place d'un site web filmothèque  | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24<br>
-            <b>[en cours]</b>
+            <b>[EN COURS]</b>
    </li>
    <br>
    <li>
       <h3>Personnels</h3>
-         - Site web personnel - Portfolio | IMH, React | 11/24 -
-         <b>[en cours]</b>
+         - Site web personnel - Portfolio | IMH, React | 11/24 - <br>
+         <b>[EN COURS]</b>
       <br><br>
-         - Jeu Zaundle | IHM, JS, React | 11/24 - 
-         <b>[en cours]</b>
+         - Jeu Zaundle | IHM, JS, React | 11/24 - <br>
+         <b>[EN COURS]</b>
    </li>
 </ul>
 <br>
