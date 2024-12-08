@@ -52,27 +52,27 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 * **Lycée**
    * Jeu PacMan en Python  | PyGame sous EduPython | 04/11/21 - 10/11/21
      - > https://github.com/Aelwyn07/PacMan-Python
-  <br>
+
    * Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | 
      (lien à venir)
-  <br><br>
+
 * **BUT Informatique**
    * Ensemble de mini-jeux en Python : allumettes, devinettes, morpion | 09/22 - 01/23
      - > https://github.com/Aelwyn07/Mini-Jeux-Python
-  <br>
+
    * Jeu de société Le Verger en Java  | JavaFX, JUnit | 03/23 - 06/23
      - > https://github.com/Aelwyn07/Le_Verger
-  <br>
+
    * Escape Game sur le thème de l'informatique  | Unity, C# | 09/23 - 04/24
      - > https://github.com/ArkAow/SAE-EscapeGame
-  <br>
+
    * Création d'un nouveau prévisionnel pour le personnel de l'IUT | Php, Symphony | 09/24 - 02/25
-  <br>
+
    * Mise en place d'un site web filmothèque | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24
-  <br>
-* Personnel
+
+* **Personnel**
    * Site web personnel - Portfolio [en cours] | IMH, React | 11/24 -
-  <br>
+
    * Jeu Zaundle [en cours] | IHM, JS, React | 11/24 - <br><br>
 <br>
 
