@@ -3,7 +3,7 @@
 
 <br>
 <div align="center">
-   <p text-size=350%><b>"<em>Les prévisions météo, c'est du random.randint()</em>"</b></p>
+   <p text-size=350px><b>"<em>Les prévisions météo, c'est du random.randint()</em>"</b></p>
 </div>
 
 <br><br>
