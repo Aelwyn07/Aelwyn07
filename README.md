@@ -55,8 +55,8 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
    * Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | 
      (lien à venir)<br>
-<div><br></div>
-* **BUT Informatique**
+
+<h3>BUT Informatique</h3>
    * Ensemble de mini-jeux en Python : allumettes, devinettes, morpion | 09/22 - 01/23
      - > https://github.com/Aelwyn07/Mini-Jeux-Python
 
