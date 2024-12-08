@@ -70,11 +70,10 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
             - Escape Game sur le thème de l'informatique  | Unity, C# | 09/23 - 04/24<br>
                - > https://github.com/ArkAow/SAE-EscapeGame
             <br><br>
-            - Création d'un nouveau prévisionnel pour le personnel de l'IUT | Php, Symphony | 09/24 - 02/25<br>
-               - > (lien à venir)
+            - Création d'un nouveau prévisionnel pour le personnel de l'IUT <b>[en cours]</b> | Php, Symphony | 09/24 - 02/25<br>
             <br><br>
-            - Mise en place d'un site web filmothèque **[en cours]**  | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24
-               - > (lien à venir)
+            - Mise en place d'un site web filmothèque <b>[en cours]</b>  | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24
+               
    </li>
    <br>
    <li>
