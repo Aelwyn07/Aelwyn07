@@ -58,6 +58,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
             - Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | <br>
                   - > (lien à venir)
    </li>
+   <br>
    <li>
       <h3>BUT Informatique</h3>
             - Ensemble de mini-jeux en Python : allumettes, devinettes, morpion | 09/22 - 01/23<br>
@@ -70,9 +71,12 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
                - > https://github.com/ArkAow/SAE-EscapeGame
             <br><br>
             - Création d'un nouveau prévisionnel pour le personnel de l'IUT | Php, Symphony | 09/24 - 02/25<br>
+               - > (lien à venir)
             <br><br>
-            - Mise en place d'un site web filmothèque | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24
+            - Mise en place d'un site web filmothèque **[en cours]**  | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24
+               - > (lien à venir)
    </li>
+   <br>
    <li>
       <h3>Personnels</h3>
          - Site web personnel - Portfolio [en cours] | IMH, React | 11/24 -
