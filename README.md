@@ -45,37 +45,51 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
   **Engagé** &nbsp; | &nbsp; Sérieux &nbsp; | &nbsp; **Patient** &nbsp; | &nbsp; Coopératif &nbsp; | &nbsp; **Esprit critique** 
 </div>
+
 <br>
 <br>
 <h2 align="center"> Projets 🚀 </h2>
 <ul>
    <li>
       <h3>Lycée</h3>
-         <p>- Jeu PacMan en Python  | PyGame sous EduPython | 04/11/21 - 10/11/21
-           - > https://github.com/Aelwyn07/PacMan-Python</p>
-
-         <p>- Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | 
-           (lien à venir)</p>
+         <ul>
+            <li>
+               - Jeu PacMan en Python  | PyGame sous EduPython | 04/11/21 - 10/11/21
+                  - > https://github.com/Aelwyn07/PacMan-Python
+            </li>
+            <li>
+               - Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | 
+                  - > (lien à venir)
+            </li>
+         </ul>
    </li>
    <li>
       <h3>BUT Informatique</h3>
-         - Ensemble de mini-jeux en Python : allumettes, devinettes, morpion | 09/22 - 01/23
-            https://github.com/Aelwyn07/Mini-Jeux-Python
-
-         - Jeu de société Le Verger en Java  | JavaFX, JUnit | 03/23 - 06/23
-            https://github.com/Aelwyn07/Le_Verger
-
-         - Escape Game sur le thème de l'informatique  | Unity, C# | 09/23 - 04/24
-           - > https://github.com/ArkAow/SAE-EscapeGame
-
-         - Création d'un nouveau prévisionnel pour le personnel de l'IUT | Php, Symphony | 09/24 - 02/25
-
-         - Mise en place d'un site web filmothèque | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24
+         <ul>
+            <li>
+               - Ensemble de mini-jeux en Python : allumettes, devinettes, morpion | 09/22 - 01/23
+                  - > https://github.com/Aelwyn07/Mini-Jeux-Python
+            </li>
+            <li>
+               - Jeu de société Le Verger en Java  | JavaFX, JUnit | 03/23 - 06/23
+                  - > https://github.com/Aelwyn07/Le_Verger
+            </li>
+            <li>
+               - Escape Game sur le thème de l'informatique  | Unity, C# | 09/23 - 04/24
+                 - > https://github.com/ArkAow/SAE-EscapeGame
+            </li>
+            <li>
+               - Création d'un nouveau prévisionnel pour le personnel de l'IUT | Php, Symphony | 09/24 - 02/25
+            </li>
+            <li>
+               - Mise en place d'un site web filmothèque | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24
+            </li>
+         </ul>
    </li>
    <li>
       <h3>Personnels</h3>
          - Site web personnel - Portfolio [en cours] | IMH, React | 11/24 -
-
+      <br>
          - Jeu Zaundle [en cours] | IHM, JS, React | 11/24 - 
    </li>
 </ul>
