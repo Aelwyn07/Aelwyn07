@@ -54,8 +54,8 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
      - > https://github.com/Aelwyn07/PacMan-Python
 
    * Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | 
-     (lien à venir)
-<br>
+     (lien à venir)<br>
+
 * **BUT Informatique**
    * Ensemble de mini-jeux en Python : allumettes, devinettes, morpion | 09/22 - 01/23
      - > https://github.com/Aelwyn07/Mini-Jeux-Python
@@ -68,8 +68,8 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
    * Création d'un nouveau prévisionnel pour le personnel de l'IUT | Php, Symphony | 09/24 - 02/25
 
-   * Mise en place d'un site web filmothèque | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24
-<br>
+   * Mise en place d'un site web filmothèque | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24<br>
+
 * **Personnels**
    * Site web personnel - Portfolio [en cours] | IMH, React | 11/24 -
 
