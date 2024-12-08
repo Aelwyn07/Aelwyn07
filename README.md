@@ -3,7 +3,7 @@
 
 <br>
 <div align="center">
-   <h4 >"<em>Les prévisions météo, c'est du random.randint()</em>"</h4>
+   <h2 >"<em>Les prévisions météo, c'est du random.randint()</em>"</h2>
 </div>
 
 <br><br>
