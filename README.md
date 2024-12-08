@@ -48,32 +48,37 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 <br>
 <br>
 <h2 align="center"> Projets 🚀 </h2>
+<ul>
+   <li>
+      <h3>Lycée</h3>
+         * Jeu PacMan en Python  | PyGame sous EduPython | 04/11/21 - 10/11/21
+           - > https://github.com/Aelwyn07/PacMan-Python
 
-* **Lycée**
-   * Jeu PacMan en Python  | PyGame sous EduPython | 04/11/21 - 10/11/21
-     - > https://github.com/Aelwyn07/PacMan-Python
+         * Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | 
+           (lien à venir)
+   </li>
+   <li>
+      <h3>BUT Informatique</h3>
+         * Ensemble de mini-jeux en Python : allumettes, devinettes, morpion | 09/22 - 01/23
+           - > https://github.com/Aelwyn07/Mini-Jeux-Python
 
-   * Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | 
-     (lien à venir)<br>
+         * Jeu de société Le Verger en Java  | JavaFX, JUnit | 03/23 - 06/23
+           - > https://github.com/Aelwyn07/Le_Verger
 
-<h3>BUT Informatique</h3>
-   * Ensemble de mini-jeux en Python : allumettes, devinettes, morpion | 09/22 - 01/23
-     - > https://github.com/Aelwyn07/Mini-Jeux-Python
+         * Escape Game sur le thème de l'informatique  | Unity, C# | 09/23 - 04/24
+           - > https://github.com/ArkAow/SAE-EscapeGame
 
-   * Jeu de société Le Verger en Java  | JavaFX, JUnit | 03/23 - 06/23
-     - > https://github.com/Aelwyn07/Le_Verger
+         * Création d'un nouveau prévisionnel pour le personnel de l'IUT | Php, Symphony | 09/24 - 02/25
 
-   * Escape Game sur le thème de l'informatique  | Unity, C# | 09/23 - 04/24
-     - > https://github.com/ArkAow/SAE-EscapeGame
+         * Mise en place d'un site web filmothèque | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24
+   </li>
+   <li>
+      <h3>Personnels</h3>
+         * Site web personnel - Portfolio [en cours] | IMH, React | 11/24 -
 
-   * Création d'un nouveau prévisionnel pour le personnel de l'IUT | Php, Symphony | 09/24 - 02/25
-
-   * Mise en place d'un site web filmothèque | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24<br>
-
-* **Personnels**
-   * Site web personnel - Portfolio [en cours] | IMH, React | 11/24 -
-
-   * Jeu Zaundle [en cours] | IHM, JS, React | 11/24 - <br><br>
+         * Jeu Zaundle [en cours] | IHM, JS, React | 11/24 - 
+   </li>
+</ul>
 <br>
 
 <table>
