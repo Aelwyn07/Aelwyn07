@@ -51,11 +51,11 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 <ul>
    <li>
       <h3>Lycée</h3>
-         - Jeu PacMan en Python  | PyGame sous EduPython | 04/11/21 - 10/11/21
-           - > https://github.com/Aelwyn07/PacMan-Python
+         <p>- Jeu PacMan en Python  | PyGame sous EduPython | 04/11/21 - 10/11/21
+           - > https://github.com/Aelwyn07/PacMan-Python</p>
 
-         - Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | 
-           (lien à venir)
+         <p>- Création d'une page web pour réaliser un site web commun regroupant les pages de chaque élève | 
+           (lien à venir)</p>
    </li>
    <li>
       <h3>BUT Informatique</h3>
