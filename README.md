@@ -17,7 +17,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 <div align="center">
 <h2>Compétences - Hard Skills 💪</h2>
 
-<h3>IHM</h3>
+### IHM
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="32">    
 
 
@@ -79,10 +79,10 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    <br>
    <li>
       <h3>Personnels</h3>
-            - Site web personnel - Portfolio | IMH, React | 11/24 - <br>
+            - Site web personnel - Portfolio | 11/24 - <br>
                   &nbsp;&nbsp;&nbsp;&nbsp;  <b>[EN COURS]</b>
             <br><br>
-            - Jeu Zaundle | IHM, JS, React | 11/24 - <br>
+            - Jeu Zaundle | HTML, CSS, JS, React | 11/24 - <br>
                   &nbsp;&nbsp;&nbsp;&nbsp;  <b>[EN COURS]</b>
    </li>
 </ul>
