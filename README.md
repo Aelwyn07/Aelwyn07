@@ -108,9 +108,13 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
  
 <br> 
 <h2> Mes réseaux 👍</h2>
+   <div display="flex">
   . mathis.krizmanic@gmail.com  |  mathis.krizmanic@etu.unilim.fr      <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre.png" width="32"> 
+   </div>
   <br>
+  <div display="flex">
   . [Mathis Krizmanic](https://www.linkedin.com/in/mathis-krizmanic-188797256)      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="32"> 
+  </div>
 
 
 
