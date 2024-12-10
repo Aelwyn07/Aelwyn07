@@ -14,7 +14,7 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
 J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de divers projets et de développer un grand nombre de compétences, détaillées ci-dessous.
 
 <br><br>
-## Compétences - Hard Skills 💪
+<h2>Compétences - Hard Skills 💪</h2>
 
 ### IHM
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="32">    
