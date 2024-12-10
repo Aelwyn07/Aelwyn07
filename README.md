@@ -14,6 +14,7 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
 J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de divers projets et de développer un grand nombre de compétences, détaillées ci-dessous.
 
 <br><br>
+<div align="center">
 <h2>Compétences - Hard Skills 💪</h2>
 
 <h3>IHM</h3>
@@ -38,7 +39,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 
 ### Outils divers
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="32"> &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg" width="32">  &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="32"> &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Light.svg" width="32">  &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" width="32"> &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Light.svg" width="32"> &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="32">  &nbsp;&nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="32"> &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="32"> &nbsp;&nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="32"> &nbsp;&nbsp;  <br><br>
-
+</div>
 <div align="center">
 <h2> Soft Skills ✌️ </h2>
 
