@@ -1,7 +1,7 @@
 # Mathis KRIZMANIC
 <img align="center" src="https://github.com/Aelwyn07/Aelwyn07/blob/main/fondd.png" width = 200px>
 <br>
-<div align="center" width=500px>
+<div align="center" width=2000px>
    <b>"<em>Les prévisions météo, c'est du random.randint()</em>"</b>
 </div>
 
