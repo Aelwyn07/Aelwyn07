@@ -117,7 +117,5 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
   </div>
 <br>
 <br>
-Et bien sûr : 
-> Les prévisions météo, c'est du random.randint()
 
 
