@@ -75,11 +75,11 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
    </li>
    <br>
    <li>
-      <h3>Personnels</h3>
-            - Site web personnel - Portfolio | 11/24 - <br>
+      <h3>Personnels</h3>    
+            - Jeu Zaundle | HTML, CSS, JS, React | 11/24 - <br>
                   &nbsp;&nbsp;&nbsp;&nbsp;  <b>[EN COURS]</b>
             <br><br>
-            - Jeu Zaundle | HTML, CSS, JS, React | 11/24 - <br>
+            - Site web personnel - Portfolio | 11/24 - <br>
                   &nbsp;&nbsp;&nbsp;&nbsp;  <b>[EN COURS]</b>
    </li>
 </ul>
