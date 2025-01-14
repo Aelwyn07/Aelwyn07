@@ -72,9 +72,6 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
             <br><br>
             - Création d'un nouveau prévisionnel pour le personnel de l'IUT  | Php, Symphony | 09/24 - 02/25<br>
                   &nbsp;&nbsp;&nbsp;&nbsp;   <b>[EN COURS]</b>
-            <br><br>
-            - Mise en place d'un site web filmothèque  | Node.js, Express, MongoDB, Cassandra, Redis | 10/24 - 12/24<br>
-                  &nbsp;&nbsp;&nbsp;&nbsp;   <b>[EN COURS]</b>
    </li>
    <br>
    <li>
