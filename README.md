@@ -8,7 +8,7 @@
 <picture><img align="right" src="https://github.com/Aelwyn07/Aelwyn07/blob/main/back2.png" width = 200px></picture>
 Aujourd'hui étudiant en troisième année de BUT Informatique, sur Limoges, je suis le parcours "réalisation d'applications : conception, développement, validation".
 
-Le développement est devenu une véritable vocation pour moi après avoir découvert la spécialité NSI au lycée. Mon parcours, jusqu'ici, m'a permis d'apprendre et d'approfondir les compétences nécessaires au développement d'applications, web et mobile. Enthousiaste à l'idée d'apprendre et engagé dans mes projets, je suis également passionné par le sport automobile, notamment en prenant part à des championnats virtuels.
+Le développement est devenu une véritable vocation pour moi après avoir découvert la spécialité NSI au lycée. Mon parcours, jusqu'ici, m'a permis d'apprendre et d'approfondir les compétences nécessaires au développement d'applications, web et mobile. Enthousiaste à l'idée d'apprendre et engagé dans mes projets, je suis également passionné par le sport automobile, notamment en prenant part à des compétitions virtuelles.
 
 J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de projets tous plus diversifiés les uns que les autres, ainsi que de développer un grand nombre de compétences, détaillées ci-dessous.
 
@@ -101,6 +101,10 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 </table>
 <br>
 
+Enfin, les différents stages que j'ai pu effectué au sein des entreprises Microlide (12 semaines), et Legrand (5 mois), m'ont permis de m'investir au sein de différents projets web : 
+   . Mise en place d'un site web : utilisation de WordPress, développement de plugins en PHP. Phases d'analyses, de recherches des technos, de conception et d'implémentation - Microlide
+   . Maintenance de services existants en PHP : ajouts de fonctionnalités et corrections de bugs. Application des méthodes agiles Scrum au sein d'une équipe web. - Legrand
+   . Développement d'une application web en Flutter, avec externalisation de la logique métier. Phases de recherche, d'analyse et de développement. - Legrand
  
 <br> 
 <h2> Mes réseaux 👍</h2>
