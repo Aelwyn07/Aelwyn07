@@ -102,8 +102,11 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 <br>
 
 Enfin, les différents stages que j'ai pu effectué au sein des entreprises Microlide (12 semaines), et Legrand (5 mois), m'ont permis de m'investir au sein de différents projets web : 
+
    . Mise en place d'un site web : utilisation de WordPress, développement de plugins en PHP. Phases d'analyses, de recherches des technos, de conception et d'implémentation - Microlide
+   
    . Maintenance de services existants en PHP : ajouts de fonctionnalités et corrections de bugs. Application des méthodes agiles Scrum au sein d'une équipe web. - Legrand
+   
    . Développement d'une application web en Flutter, avec externalisation de la logique métier. Phases de recherche, d'analyse et de développement. - Legrand
  
 <br> 
