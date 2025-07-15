@@ -6,15 +6,17 @@
 
 <br><br>
 <picture><img align="right" src="https://github.com/Aelwyn07/Aelwyn07/blob/main/back2.png" width = 200px></picture>
-Aujourd'hui étudiant en troisième année de BUT Informatique, sur Limoges, je suis le parcours "réalisation d'applications : conception, développement, validation".
+Diplômé il y a peu du diplôme de BUT Informatique, parcours "réalisation d'applications : conception, développement, validation", à l'IUT de Limoges, je m'oriente actuellement vers une année en licence 3 avec l'objectif de réaliser un Master en datascience, ou bien en développement web et logiciel.
 
-Le développement est devenu une véritable vocation pour moi après avoir découvert la spécialité NSI au lycée. Mon parcours, jusqu'ici, m'a permis d'apprendre et d'approfondir les compétences nécessaires au développement d'applications, web et mobile. Enthousiaste à l'idée d'apprendre et engagé dans mes projets, je suis également passionné par le sport automobile, notamment en prenant part à des compétitions virtuelles.
+Le développement est devenu une véritable vocation pour moi après avoir découvert la spécialité NSI au lycée. Mon parcours, jusqu'ici, m'a permis d'apprendre et d'approfondir les compétences nécessaires au développement d'applications, web et mobile. Les stages que j’ai pu effectuer en deuxième et troisième année, détaillés ci-dessous, ont été de véritables expériences formatrices pour moi, renforçant plus encore ma vocation pour ce domaine. Enthousiaste à l'idée d'apprendre et engagé dans mes projets, je suis également passionné par le sport automobile, notamment en prenant part à des compétitions virtuelles, à échelle française et européenne.
 
 J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de projets tous plus diversifiés les uns que les autres, ainsi que de développer un grand nombre de compétences, détaillées ci-dessous.
 
 <br><br><br><br>
 <div align="center">
 <h2>Compétences - Hard Skills 💪</h2>
+<br><br><br>
+<h3>Mes technos et langages phares !</h3>
 
 ### IHM
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="32">    
