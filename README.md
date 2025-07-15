@@ -12,7 +12,7 @@ Le développement est devenu une véritable vocation pour moi après avoir déco
 
 J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de projets tous plus diversifiés les uns que les autres, ainsi que de développer un grand nombre de compétences, détaillées ci-dessous.
 
-<br><br><br><br>
+<br><br><br>
 <div align="center">
 <h2>Compétences - Hard Skills 💪</h2>
 <br><br><br>
