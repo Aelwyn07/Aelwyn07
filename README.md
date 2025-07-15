@@ -16,20 +16,20 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
 <div align="center">
 <h2>Compétences - Hard Skills 💪</h2>
 <br><br><br>
-<h3>Mes technos et langages phares !</h3>
+
 
 ### IHM
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="32">    
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="32">  &nbsp;   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg" width="32">    
 
 
 
 ### Langages - bonnes connaissances et expériences
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> &nbsp;
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="32"> &nbsp; <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="32"> &nbsp;
 
      
    
 ### En cours d'apprentissage - Notions
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32"> &nbsp; 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="32">  &nbsp;  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="32"> 
 <br>
 
 
