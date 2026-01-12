@@ -71,15 +71,23 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
                   &nbsp;&nbsp;&nbsp;&nbsp;  - > https://github.com/ArkAow/SAE-EscapeGame
             <br><br>
             - Création d'un nouveau prévisionnel pour le personnel de l'IUT  | Php, Symphony | 09/24 - 02/25<br>
-                  &nbsp;&nbsp;&nbsp;&nbsp;   <b>[EN COURS]</b>
+   </li>
+   <br>
+   <li>
+      <h3>Licence 3 Informatique</h3>
+         - RPG Textuel : inspiré du célèbre Colossal Cave Adventure | Java | 11/25 - 12/25<br>
+                  &nbsp;&nbsp;&nbsp;&nbsp;  - > https://github.com/Aelwyn07/adventureGameL3
+         <br><br>
+         - Application de gestion de nombres premiers : communication système client-serveur | C | 11/25 - 12/25<br>
+                  &nbsp;&nbsp;&nbsp;&nbsp;  - > https://github.com/ArkAow/cc2-projet
    </li>
    <br>
    <li>
       <h3>Personnels</h3>    
             - Jeu Zaundle, Arcane | HTML, CSS, JS, React | 11/24 - 12/24 <br>
-                  &nbsp;&nbsp;&nbsp;&nbsp;  <b>/</b>
+                  &nbsp;&nbsp;&nbsp;&nbsp;  <b>[EN COURS]</b>
             <br><br>
-            - Site web personnel - Portfolio | 11/24 - <br>
+            - Convertisseur de vidéos youtube au format mp3 à partir d'une url <br>
                   &nbsp;&nbsp;&nbsp;&nbsp;  <b>[EN COURS]</b>
    </li>
 </ul>
