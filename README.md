@@ -120,7 +120,7 @@ Enfin, les différents stages que j'ai pu effectué au sein des entreprises Micr
 <br> 
 <h2> Mes réseaux 👍</h2>
    <div display="flex">
-  . mathis.krizmanic@gmail.com  |  mathis.krizmanic@etu.unilim.fr      <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre.png" width="32"> 
+  . mathis.krizmanic@gmail.com  |  mathis.krizmanic@etu.univ-poitiers.fr      <img src="https://github.com/Aelwyn07/Aelwyn07/blob/main/utre.png" width="32"> 
    </div>
   <br>
   <div display="flex">
