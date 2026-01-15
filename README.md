@@ -87,7 +87,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
             - Jeu Zaundle, Arcane | HTML, CSS, JS, React | 11/24 - 12/24 <br>
                   &nbsp;&nbsp;&nbsp;&nbsp;  <b>[EN COURS]</b>
             <br><br>
-            - Convertisseur de vidéos youtube au format mp3 à partir d'une url <br>
+            - Convertisseur de vidéos youtube au format mp3 à partir d'une url | HTML, CSS, JS, petit serveur back en PHP | 01/26 <br>
                   &nbsp;&nbsp;&nbsp;&nbsp;  
    </li>
 </ul>
