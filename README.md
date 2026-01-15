@@ -6,7 +6,7 @@
 
 <br><br>
 <picture><img align="right" src="https://github.com/Aelwyn07/Aelwyn07/blob/main/back2.png" width = 200px></picture>
-Diplômé il y a peu du diplôme de BUT Informatique, parcours "réalisation d'applications : conception, développement, validation", à l'IUT de Limoges, je m'oriente actuellement vers une année en licence 3 avec l'objectif de réaliser un Master en datascience, ou bien en développement web et logiciel.
+Diplômé il y a peu du diplôme de BUT Informatique, parcours "réalisation d'applications : conception, développement, validation", à l'IUT de Limoges, je m'oriente actuellement vers une année en licence 3 avec l'objectif de réaliser un Master en datascience, IA ou bien en développement web et logiciel.
 
 Le développement est devenu une véritable vocation pour moi après avoir découvert la spécialité NSI au lycée. Mon parcours, jusqu'ici, m'a permis d'apprendre et d'approfondir les compétences nécessaires au développement d'applications, web et mobile. Les stages que j’ai pu effectuer en deuxième et troisième année, détaillés ci-dessous, ont été de véritables expériences formatrices pour moi, renforçant plus encore ma vocation pour ce domaine. Enthousiaste à l'idée d'apprendre et engagé dans mes projets, je suis également passionné par le sport automobile, notamment en prenant part à des compétitions virtuelles, à échelle française et européenne.
 
