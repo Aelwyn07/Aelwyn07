@@ -88,7 +88,7 @@ J'ai eu l'occasion, au cours de ces dernières années, de m'investir au sein de
                   &nbsp;&nbsp;&nbsp;&nbsp;  <b>[EN COURS]</b>
             <br><br>
             - Convertisseur de vidéos youtube au format mp3 à partir d'une url <br>
-                  &nbsp;&nbsp;&nbsp;&nbsp;  <b>[EN COURS]</b>
+                  &nbsp;&nbsp;&nbsp;&nbsp;  
    </li>
 </ul>
 <br>
