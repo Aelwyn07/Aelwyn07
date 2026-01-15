@@ -113,7 +113,7 @@ Enfin, les différents stages que j'ai pu effectué au sein des entreprises Micr
 
    . Mise en place d'un site web : utilisation de WordPress, développement de plugins en PHP. Phases d'analyses, de recherches des technos, de conception et d'implémentation - Microlide
    
-   . Maintenance de services existants en PHP : ajouts de fonctionnalités et corrections de bugs. Application des méthodes agiles Scrum au sein d'une équipe web. - Legrand
+   . Maintenance de services existants en PHP Symfony : ajouts de fonctionnalités et corrections de bugs. Application des méthodes agiles Scrum au sein d'une équipe web. - Legrand
    
    . Développement d'une application web en Flutter, avec externalisation de la logique métier. Phases de recherche, d'analyse et de développement. - Legrand
  
